@@ -1,0 +1,114 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Senior Software Engineer",
+      "company": "Google",
+      "location": "Mountain View, CA",
+      "employment_type": "Full-time",
+      "salary_min": 200000,
+      "salary_max": 250000,
+      "description": "We're looking for a Senior Software Engineer to join our Cloud Platform team. You'll work on building scalable distributed systems.",
+      "requirements": [
+        "8+ years of software development experience",
+        "Expert level Python or Java",
+        "Experience with cloud platforms (AWS, GCP, Azure)",
+        "Strong system design skills",
+        "Leadership experience"
+      ],
+      "nice_to_have": [
+        "Experience with Kubernetes",
+        "ML/AI background",
+        "Open source contributions"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Full Stack Developer",
+      "company": "Startup Innovation Labs",
+      "location": "Remote",
+      "employment_type": "Full-time",
+      "salary_min": 120000,
+      "salary_max": 160000,
+      "description": "Join our fast-growing startup as a Full Stack Developer. Build web applications used by millions.",
+      "requirements": [
+        "5+ years full-stack development",
+        "React and Node.js expertise",
+        "PostgreSQL or MongoDB",
+        "RESTful API design",
+        "Agile methodology experience"
+      ],
+      "nice_to_have": [
+        "TypeScript experience",
+        "Docker/Kubernetes",
+        "GraphQL"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Data Engineer",
+      "company": "Data Analytics Corp",
+      "location": "New York, NY",
+      "employment_type": "Full-time",
+      "salary_min": 140000,
+      "salary_max": 190000,
+      "description": "Build data pipelines and ETL processes for big data analytics platform.",
+      "requirements": [
+        "6+ years data engineering experience",
+        "Python and SQL expertise",
+        "Apache Spark experience",
+        "Data warehouse design",
+        "ETL pipeline development"
+      ],
+      "nice_to_have": [
+        "Apache Kafka",
+        "Machine Learning basics",
+        "Cloud platforms"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "DevOps Engineer",
+      "company": "CloudTech Solutions",
+      "location": "San Francisco, CA",
+      "employment_type": "Full-time",
+      "salary_min": 150000,
+      "salary_max": 200000,
+      "description": "Manage and optimize cloud infrastructure for our distributed systems.",
+      "requirements": [
+        "5+ years DevOps experience",
+        "Kubernetes and Docker",
+        "AWS or GCP expertise",
+        "Infrastructure as Code",
+        "CI/CD pipeline experience"
+      ],
+      "nice_to_have": [
+        "Terraform",
+        "Jenkins",
+        "Monitoring tools (Prometheus, Grafana)"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Machine Learning Engineer",
+      "company": "AI Innovations Inc",
+      "location": "Remote",
+      "employment_type": "Full-time",
+      "salary_min": 180000,
+      "salary_max": 240000,
+      "description": "Develop and deploy machine learning models for production systems.",
+      "requirements": [
+        "6+ years ML/AI experience",
+        "Python and TensorFlow",
+        "Deep learning and NLP",
+        "Model deployment experience",
+        "Statistical analysis"
+      ],
+      "nice_to_have": [
+        "PyTorch",
+        "Computer Vision",
+        "MLOps tools"
+      ]
+    }
+  ]
+}
