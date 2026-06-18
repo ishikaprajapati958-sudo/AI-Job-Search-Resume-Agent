@@ -1,0 +1,79 @@
+John Doe
+Senior Software Engineer
+
+CONTACT
+Email: john.doe@example.com
+Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Experienced Senior Software Engineer with 8+ years of expertise in full-stack development, cloud architecture, and team leadership. Proven track record of designing and implementing scalable systems that improved performance by 40% and reduced operational costs by 25%. Strong background in Python, JavaScript, and cloud technologies.
+
+EXPERIENCE
+
+Senior Software Engineer
+TechCorp Inc. | San Francisco, CA | Jan 2021 - Present
+- Led development team of 5 engineers in designing and implementing microservices architecture
+- Architected and deployed machine learning pipeline processing 1M+ daily transactions
+- Reduced API response time by 45% through optimization and caching strategies
+- Mentored junior developers and conducted code reviews
+- Technologies: Python, Django, React, PostgreSQL, AWS, Docker, Kubernetes
+
+Software Engineer
+DataFlow Systems | San Francisco, CA | Jun 2018 - Dec 2020
+- Developed full-stack web applications using React and Node.js
+- Implemented real-time data processing system using Apache Kafka and Spark
+- Optimized database queries resulting in 30% performance improvement
+- Collaborated with data science team on ML model deployment
+- Technologies: Python, JavaScript, React, Node.js, SQL, AWS
+
+Junior Software Engineer
+StartupXYZ | Palo Alto, CA | Jul 2016 - May 2018
+- Developed backend APIs and database schemas
+- Wrote unit tests and improved code coverage from 40% to 85%
+- Participated in agile development process and sprint planning
+- Technologies: Python, JavaScript, MySQL, AWS
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2016
+GPA: 3.8/4.0
+
+TECHNICAL SKILLS
+
+Programming Languages:
+- Python (Expert), JavaScript/TypeScript (Advanced)
+- Java (Intermediate), SQL (Expert)
+
+Web Frameworks:
+- Django, FastAPI, React, Node.js/Express
+
+Data & Machine Learning:
+- TensorFlow, Pandas, NumPy, Scikit-learn
+- SQL optimization, NoSQL databases (MongoDB)
+
+Cloud & DevOps:
+- AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes
+- Jenkins, GitHub Actions, CI/CD pipelines
+
+Other Tools:
+- Git, Linux, Vim, VS Code, Jupyter Notebooks
+
+CERTIFICATIONS & CREDENTIALS
+
+- AWS Solutions Architect Associate (2021)
+- Certified Kubernetes Administrator (CKA) (2020)
+
+ACHIEVEMENTS & PROJECTS
+
+- Spearheaded migration of monolithic application to microservices reducing deployment time by 60%
+- Developed open-source library for data validation (500+ GitHub stars)
+- Published article on "Scaling Python Applications" in tech blogs
+- Speaker at PyConf 2022 on cloud-native development
+
+LANGUAGES
+- English (Native)
+- Spanish (Conversational)
