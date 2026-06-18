@@ -1,0 +1,75 @@
+{
+  "programming_languages": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "Java",
+    "C++",
+    "Go",
+    "Rust",
+    "SQL",
+    "R",
+    "Scala"
+  ],
+  "frontend_skills": [
+    "React",
+    "Vue.js",
+    "Angular",
+    "HTML/CSS",
+    "Webpack",
+    "Redux",
+    "Next.js"
+  ],
+  "backend_skills": [
+    "Django",
+    "Flask",
+    "FastAPI",
+    "Node.js",
+    "Express",
+    "Spring",
+    "Fastify"
+  ],
+  "cloud_platforms": [
+    "AWS",
+    "Google Cloud",
+    "Azure",
+    "Heroku",
+    "DigitalOcean"
+  ],
+  "databases": [
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Redis",
+    "Elasticsearch",
+    "DynamoDB",
+    "Cassandra"
+  ],
+  "devops_tools": [
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "GitHub Actions",
+    "Terraform",
+    "Ansible",
+    "Prometheus"
+  ],
+  "ml_ai_skills": [
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "Keras",
+    "NLP",
+    "Computer Vision",
+    "Deep Learning"
+  ],
+  "soft_skills": [
+    "Leadership",
+    "Communication",
+    "Problem Solving",
+    "Team Collaboration",
+    "Project Management",
+    "Mentoring",
+    "Time Management"
+  ]
+}
